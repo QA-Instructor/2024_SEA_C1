@@ -2,3 +2,12 @@ body {background-color: antiquewhite;
     color: maroon;
 
 }
+
+h3 {
+    color:magenta;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    color: purple;
+}
