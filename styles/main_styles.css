@@ -1,6 +1,9 @@
 body {background-color: antiquewhite;
     color: maroon;
+}
 
+h1 {
+    color: navy;
 }
 
 h3 {
@@ -8,6 +11,11 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-ol {
-    color: purple;
+ul, ol {
+    color: darkgreen;
+}
+
+footer {
+    font-size: small;
+    color: grey;
 }
